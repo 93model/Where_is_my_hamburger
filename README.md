@@ -44,7 +44,10 @@ Google Colab Pro ( GPU : T4, P100 / RAM : 최대 25.51GB / CPU : Intel® Xeon® 
 
 ## 🔍 데이터 분석
 랜덤포레스트 + RamdomCV모델이 가장 정확도가 좋았다.
-하지만 feature가 4개에 행정동별로 426개 밖에 없어서 예측력이 좋지는 않다. (테스트 정확도 : 0.4113)
+하지만 feature가 4개에 행정동별로 426개 밖에 없어서 예측력이 좋지는 않다.
+
+(테스트 정확도 : 0.4113)
+
 ![캡처](/image/feature_importance_ham.png)
 
 Feature importance 분석 결과
