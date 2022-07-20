@@ -4,7 +4,7 @@
 ## 🛠 문제
 나는 햄버거를 매우 좋아한다.
 하지만 내가 사는 지역( 가락본동 )에는 햄버거 프랜차이즈 전문점이 단 한 개도 없다. 
-
+![캡처](/image/garak.png)
 최소 도보로 30분 이상 떨어진 지역에만, 햄버거 가게가 있다. 
 
 도대체 왜 그런지 궁금해져서 공공데이터를 활용해 분석
@@ -25,11 +25,21 @@ Google Colab Pro ( GPU : T4, P100 / RAM : 최대 25.51GB / CPU : Intel® Xeon® 
 프랭크 버거, 파파이스, 쉐이크쉑 (https://www.data.go.kr/data/15083033/fileData.do)
 
 ## 🧹 데이터 시각화
+서울시 프랜차이즈별 햄버거 전문
+![캡처](/image/ham_count.png)
+
+
 행정동별 주민 등록 인구
+![캡처](/image/residence_peo.png)
 
 행정동별 22.05 생활인구 평균
+![캡처](/image/living_peo.png)
 
 행정동별 햄버거 전문점
+![캡처](/image/dong_ham.png)
+
+
+
 
 ## 🔍 데이터 분석
 랜덤포레스트 + RamdomCV모델이 가장 정확도가 좋았다.
