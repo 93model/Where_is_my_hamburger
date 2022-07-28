@@ -27,16 +27,20 @@ Google Colab Pro ( GPU : T4, P100 / RAM : 최대 25.51GB / CPU : Intel® Xeon® 
 
 ## 🧹 데이터 시각화
 서울시 프랜차이즈별 햄버거 전문
+
 ![캡처](/image/ham_count.png)
 
 
 행정동별 주민 등록 인구
+
 ![캡처](/image/residence_peo.png)
 
 행정동별 22.05 생활인구 평균
+
 ![캡처](/image/living_peo.png)
 
 행정동별 햄버거 전문점
+
 ![캡처](/image/dong_ham.png)
 
 
